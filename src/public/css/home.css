@@ -127,19 +127,15 @@ figure.snip1091.hover figcaption {
 
 /* finally styles images hover*/
 
-.footer_center {
-  width: 500px;
-  float: left;
-  text-align: center;
+footer {
+  color: white;
 }
 
-.footer h3 {
-  font-family: 'Helvetica';
-  font-size: 30px;
-  font-weight: 100;
-  margin-top: 70px;
-  margin-left: 40px;
+.footer-bottom {
+  background: #2e4552;
+  padding: 2em;
 }
+
 
 @media only screen and (max-width: 500px) {
   .right {
@@ -157,4 +153,3 @@ figure.snip1091.hover figcaption {
     margin: 10px;
   }
 }
-
