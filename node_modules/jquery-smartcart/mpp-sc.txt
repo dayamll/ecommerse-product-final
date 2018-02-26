@@ -1,0 +1,68 @@
+Minimum publish plan
+----------------------------------
+
+SET 1
+-------------------------------
+>> Function to get/set value/html based on element type
+>> Get all the input elements inside ad div (find)
+>> Combine products on cart, combine key
+>> radio button get content fails
+>> not add product if not satisfied with details, price and quantity
+>> .add-to-cart class
+>> Add console.errlog to on errors
+>> render form data
+>> Disable checkout/clear button when cart is empty
+>> Ajax submit
+>> submit type: submit, paypal, ajax
+>> add events
+>> paypal support integration
+>> product price, product quantity property names to option settings
+>> Add toolbars 1, 2 ,3 
+>> checkout button type: normal, paypal, image
+>> option showToolbar
+>> External method calls: submit, clear
+>> Initial products populate in cart, cart with product objects
+>> update test script and templates
+>> Demo pages Normal, paypal
+
+>> Details
+Documentation 
+
+LATER
+-------------------------------
+Quantity maximum limit, event also
+Is quantity editable
+shipping rate
+product tax calculation (item level or total level) .tax settings
+discount calculation (item level, total level). discount Settings
+Coupon discount
+"getCart" method for outside access of cart data/object
+external extensions. subtotal, tax, shipping calculation 
+jquery set content based on element type
+collapsible cart
+add themes
+
+cart: [{product_name: "Product 2 ",  product_size: "S", product_price: "5435.50", product_id: "145", product_quantity: 1 },{product_name: "Product 3 ",  product_size: "S", product_price: "543.50", product_id: "145", product_quantity: 1 }], // initial products in cart
+            
+
+----
+#25d641 - Green
+https://codyhouse.co/demo/quick-add-to-cart/index.html
+
+http://paypalshop.codecanyon.createit.pl/corpress/index.html
+
+https://www.sitepoint.com/10-jquery-based-shopping-carts/
+
+http://minicartjs.com/
+
+http://createit.support/html-documentation/paypal-html-shop/
+http://www.cocoacart.com/tshirts/
+
+Payments supported
+Paypal
+https://www.paypal.com/cgi-bin/webscr?cmd=p/pdn/howto_checkout-outside#methodtwo
+https://www.paypal.com/us/webapps/mpp/logos-buttons
+
+https://global.paymate.com/paymate-online-payments/
+https://www.2checkout.com/documentation/checkout/standard-checkout
+https://docs.payza.com/reference#section-multi-item-button

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <coverage xmlns="http://www.netbeans.org/ns/code-coverage/1" enabled="false"/>
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="3">
+        <file>
+            <url>src/js/jquery.smartCart.js</url>
+            <bookmark id="3">
+                <name/>
+                <line>28</line>
+                <key/>
+            </bookmark>
+            <bookmark id="2">
+                <name/>
+                <line>213</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group/>
+        <group name="websites">
+            <file>file:/D:/websites/Plugins/SmartCart/src/css/smart_cart.css</file>
+            <file>file:/D:/websites/Plugins/SmartCart/examples/test-page.html</file>
+            <file>file:/D:/websites/Plugins/SmartCart/src/js/jquery.smartCart.js</file>
+            <file>file:/D:/websites/Plugins/SmartCart/mpp-sc.txt</file>
+        </group>
+    </open-files>
+</project-private>
